@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.sonatype.sisu:sisu-inject-plexus:1.4.2">
+    <CLASSES>
+      <root url="jar://E:/159.251/tui/3/apache-maven-3.8.2R/org/sonatype/sisu/sisu-inject-plexus/1.4.2/sisu-inject-plexus-1.4.2.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://E:/159.251/tui/3/apache-maven-3.8.2R/org/sonatype/sisu/sisu-inject-plexus/1.4.2/sisu-inject-plexus-1.4.2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://E:/159.251/tui/3/apache-maven-3.8.2R/org/sonatype/sisu/sisu-inject-plexus/1.4.2/sisu-inject-plexus-1.4.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
